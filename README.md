@@ -85,7 +85,7 @@ If this is your first time using Python, follow these steps carefully:
    ```
 
 4. **Save the script**
-   - Create a new file called `pdf_to_notes.py`
+   - Create a new file called `script.py`
    - Copy the entire script code into this file
    - Save the file
 
@@ -95,7 +95,7 @@ If this is your first time using Python, follow these steps carefully:
    the start of your terminal line)
 2. Run the script:
    ```bash
-   python pdf_to_notes.py
+   python script.py
    ```
 3. The script will ask you for:
    - Path to your PDF file
@@ -169,7 +169,7 @@ pip install PyMuPDF Pillow
 ### Usage
 
 ```bash
-python pdf_to_notes.py
+python script.py
 ```
 
 ### Output Structure
